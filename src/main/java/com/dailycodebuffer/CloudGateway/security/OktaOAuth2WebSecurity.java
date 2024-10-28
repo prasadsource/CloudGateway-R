@@ -1,4 +1,4 @@
-package com.dailycodebuffer.CloudGateway.security;
+/*package com.dailycodebuffer.CloudGateway.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -23,3 +23,4 @@ public class OktaOAuth2WebSecurity {
         return http.build();
     }
 }
+*/
