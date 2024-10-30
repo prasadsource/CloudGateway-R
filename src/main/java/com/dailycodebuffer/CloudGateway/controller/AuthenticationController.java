@@ -1,4 +1,4 @@
-/*package com.dailycodebuffer.CloudGateway.controller;
+package com.dailycodebuffer.CloudGateway.controller;
 
 import com.dailycodebuffer.CloudGateway.model.AuthenticationResponse;
 import org.springframework.http.HttpStatus;
@@ -40,4 +40,3 @@ public class AuthenticationController {
         return new ResponseEntity<>(authenticationResponse, HttpStatus.OK);
     }
 }
-*/
